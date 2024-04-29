@@ -1,0 +1,127 @@
+{
+  "fishes": [
+    {
+      "id": "2",
+      "info": "Area closures and gear restrictions protect habitats that are affected by some kinds of trawl gear.",
+      "region": "Greater Atlantic",
+      "scientificName": "Urophycis tenuis",
+      "illustrationPhoto": {
+        "src": "/images/white_hake.jpg",
+        "alt": "Illustration of white hake. Credit: Jack Hornady.",
+        "title": ""
+      },
+      "name": "White Hake"
+    },
+    {
+      "id": "3",
+      "info": "Area closures and gear restrictions protect habitat that are affected by some types of trawl gear.",
+      "region": "Greater Atlantic",
+      "scientificName": "Scomber colias",
+      "illustrationPhoto": {
+        "src": "/images/atlantic_mackerel.png",
+        "alt": "Illustration of Atlantic chub mackerel",
+        "title": "Atlantic chub mackerel"
+      },
+      "name": "Atlantic Chub Mackerel"
+    },
+    {
+      "id": "4",
+      "info": "Fishing gears used to harvest shortfin squid have minimal impacts on habitat.",
+      "region": "Greater Atlantic",
+      "scientificName": "Illex illecebrosus",
+      "illustrationPhoto": {
+        "src": "/images/shortfin_squid.png",
+        "alt": "shortfin squid",
+        "title": "Shortfin Squid"
+      },
+      "name": "Shortfin Squid"
+    },
+    {
+      "id": "5",
+      "info": "Fishing gears used to harvest American lobster have minimal impacts on habitat.",
+      "region": "Greater Atlantic",
+      "scientificName": "Homarus americanus",
+      "illustrationPhoto": {
+        "src": "/images/american_lobster.png",
+        "alt": "American Lobster",
+        "title": "American Lobster"
+      },
+      "name": "American Lobster"
+    },
+    {
+      "id": "6",
+      "info": "Most fishing gear used to harvest yellowtail rockfish rarely contacts the ocean floor and has minimal impacts on habitat. Area closures and gear restrictions protect sensitive rocky, cold-water coral and sponge habitats from bottom trawl gear.",
+      "region": "West Coast, Alaska",
+      "scientificName": "Sebastes flavidus",
+      "illustrationPhoto": {
+        "src": "/images/yelloweye_rockfish.jpg",
+        "alt": "Yellowtail rockfish",
+        "title": "Yellowtail rockfish"
+      },
+      "name": "Yellowtail Rockfish"
+    },
+    {
+      "id": "7",
+      "info": "Area closures and gear restrictions protect sensitive rocky, cold-water coral and sponge habitats from bottom trawl gear.",
+      "region": "West Coast, Alaska",
+      "scientificName": "Sebastes paucispinis",
+      "illustrationPhoto": {
+        "src": "/images/bocaccio_rockfish.jpg",
+        "alt": "Illustration of a Bocaccio rockfish.",
+        "title": "Bocaccio rockfish."
+      },
+      "name": "Bocaccio"
+    },
+    {
+      "id": "8",
+      "info": null,
+      "region": "West Coast, Greater Atlantic, Alaska",
+      "scientificName": "Saccharina latissima",
+      "illustrationPhoto": {
+        "src": "/images/sugar_kelp.jpg",
+        "alt": "",
+        "title": ""
+      },
+      "name": "Sugar Kelp"
+    },
+    {
+      "id": "10",
+      "region": "Greater Atlantic",
+      "scientificName": "Hippoglossus hippoglossus",
+      "illustrationPhoto": {
+        "src": "/images/atlantic_halibut.png",
+        "alt": "Illustration of Atlantic Halibut.",
+        "title": "Illustration of Atlantic Halibut."
+      },
+      "name": "Atlantic Halibut"
+    },
+    {
+      "id": "0.2504537279236285",
+      "region": "www",
+      "scientificName": "ddd",
+      "name": "fff",
+      "img": "/images/pink_snapper.png"
+    },
+    {
+      "id": "0.9914209365713476",
+      "region": "ssss",
+      "scientificName": "dddd",
+      "name": "fff",
+      "img": "/images/white_hake.jpg"
+    },
+    {
+      "id": "0.11400074423326445",
+      "region": "rrr",
+      "scientificName": "ggg",
+      "name": "hhh",
+      "img": "/images/white_hake.jpg"
+    },
+    {
+      "id": "0.3732674882406759",
+      "region": "rrrr",
+      "scientificName": "dddd",
+      "name": "fff",
+      "img": "/images/white_hake.jpg"
+    }
+  ]
+}

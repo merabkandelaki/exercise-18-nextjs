@@ -1,0 +1,20 @@
+.app-layout {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.navbar-login-button {
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+}
+
+.navbar-login-button:hover {
+    color: yellow;
+}
+
+.app-layout-content {
+    flex: 1;
+}

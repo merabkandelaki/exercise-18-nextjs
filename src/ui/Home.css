@@ -1,0 +1,38 @@
+.home {
+    background-image: url(../assets/Cover.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    overflow-x: hidden;
+}
+
+.home-title {
+    color: white;
+}
+
+.firstname {
+    color: yellow;
+}
+
+.favorite-fishes {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+
+.home-title-favorites {
+    color: white;
+}
+
+.favorite-fishes-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}

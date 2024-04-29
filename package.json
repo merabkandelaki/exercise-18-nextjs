@@ -6,12 +6,18 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "server": "json-server --watch mock-data/fishes-list.json --port 9000 --delay 2000",
+    "server-auth": "json-server-auth mock-data/users.json -p 4000 --watch"
   },
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.3"
+    "next": "14.2.3",
+    "axios": "^1.6.8",
+    "jwt-decode": "^3.1.2",
+    "json-server": "^0.17.3",
+    "json-server-auth": "^2.1.0"
   },
   "devDependencies": {
     "eslint": "^8",
